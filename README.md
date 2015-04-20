@@ -13,3 +13,7 @@ http://cd-cadp.rhcloud.com/get_page?heading=2D+%E6%AD%A3%E9%BD%92%E8%BC%AA%E8%BC
 這篇則是由Python內建的Tkinter所寫成的2D 正齒輪輪廓
 
 閱讀並了解這篇兩篇的齒輪畫法，發現這兩篇的程式大致上是一模一樣的。
+
+
+0420
+今天在課堂上建立一個0420的倉儲，將專案內容彙整於倉儲內。
